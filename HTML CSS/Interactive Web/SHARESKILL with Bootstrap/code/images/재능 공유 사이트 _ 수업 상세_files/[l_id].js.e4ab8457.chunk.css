@@ -1,0 +1,13 @@
+.FixedBanner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 90;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center; }
+  .FixedBanner__close {
+    display: none; }
+
